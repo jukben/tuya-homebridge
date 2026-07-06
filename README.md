@@ -1,3 +1,6 @@
+Archived in favor of https://github.com/0x5e/homebridge-tuya-platform
+
+
 Tuya Homebridge Plugin
 ========================
 
